@@ -197,4 +197,4 @@ Como os resultados dependem da execução no ambiente local, os valores finais d
 
 ## Autor
 
-- Bruno Araújo Sales
+- Bruno Sales
